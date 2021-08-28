@@ -81,6 +81,7 @@ body{
 @media only screen and (max-width: 416px){
     body{
         background-color: red;
-        overflow: hidden;
+        overflow-x: hidden;
     }
+    
 }
